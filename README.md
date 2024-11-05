@@ -5,8 +5,7 @@
 
 ##  Check out our demo video on LinkedIn:
 
-[![Watch the video](https://blog.roboflow.com/content/images/size/w1200/format/webp/2024/04/image-1056.webp)](https://www.linkedin.com/posts/vasapurnapraneeth_aimers-aimersociety-machinelearning-activity-7205483005899939840-7XZv?utm_source=share&utm_medium=member_desktop)
-
+[![Watch the video](https://github.com/PraneethVasa/Auto-Vision/blob/main/OBJECT%20DETECTION.png)](https://www.linkedin.com/posts/vasapurnapraneeth_aimers-aimersociety-machinelearning-activity-7205483005899939840-7XZv?utm_source=share&utm_medium=member_desktop)
 
 ## Features
 - **Real-Time Detection**: Detects vehicles in live video streams, instantly highlighting and labeling them.
